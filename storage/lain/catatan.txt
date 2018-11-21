@@ -1,0 +1,7 @@
+element blade -> {index, create, edit, show, _form}
+
+
+Post
+    Vue element -> index {Untuk Menampilkan semua data post}
+                -> view  {Unutk Menmpilakan salah satu data yang dipilih}
+                -> input {Untuk memasukan data baik menmbahkan atau mengubah}
